@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\bin\Debug\net7.0\C#-titpos-de-dados.exe
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\bin\Debug\net7.0\C#-titpos-de-dados.deps.json
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\bin\Debug\net7.0\C#-titpos-de-dados.runtimeconfig.json
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\bin\Debug\net7.0\C#-titpos-de-dados.dll
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\bin\Debug\net7.0\C#-titpos-de-dados.pdb
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.dll
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\refint\C#-titpos-de-dados.dll
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.pdb
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\C#-titpos-de-dados.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\C#-titpos-de-dados\obj\Debug\net7.0\ref\C#-titpos-de-dados.dll

@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\AppC#Console\bin\Debug\net7.0\AppC#Console.exe
+C:\Users\renan\Desktop\C#\AppC#Console\bin\Debug\net7.0\AppC#Console.deps.json
+C:\Users\renan\Desktop\C#\AppC#Console\bin\Debug\net7.0\AppC#Console.runtimeconfig.json
+C:\Users\renan\Desktop\C#\AppC#Console\bin\Debug\net7.0\AppC#Console.dll
+C:\Users\renan\Desktop\C#\AppC#Console\bin\Debug\net7.0\AppC#Console.pdb
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.dll
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\refint\AppC#Console.dll
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.pdb
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\AppC#Console.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\AppC#Console\obj\Debug\net7.0\ref\AppC#Console.dll
