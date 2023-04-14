@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\bin\Debug\net7.0\saida-de-dados-c#.exe
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\bin\Debug\net7.0\saida-de-dados-c#.deps.json
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\bin\Debug\net7.0\saida-de-dados-c#.runtimeconfig.json
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\bin\Debug\net7.0\saida-de-dados-c#.dll
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\bin\Debug\net7.0\saida-de-dados-c#.pdb
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.dll
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\refint\saida-de-dados-c#.dll
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.pdb
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\saida-de-dados-c#.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\saida-de-dados-c#\obj\Debug\net7.0\ref\saida-de-dados-c#.dll
