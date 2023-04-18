@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\bin\Debug\net7.0\conversao-implicita-e-casting.exe
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\bin\Debug\net7.0\conversao-implicita-e-casting.deps.json
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\bin\Debug\net7.0\conversao-implicita-e-casting.runtimeconfig.json
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\bin\Debug\net7.0\conversao-implicita-e-casting.dll
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\bin\Debug\net7.0\conversao-implicita-e-casting.pdb
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.dll
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\refint\conversao-implicita-e-casting.dll
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.pdb
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\conversao-implicita-e-casting.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\conversao-implicita-e-casting\obj\Debug\net7.0\ref\conversao-implicita-e-casting.dll

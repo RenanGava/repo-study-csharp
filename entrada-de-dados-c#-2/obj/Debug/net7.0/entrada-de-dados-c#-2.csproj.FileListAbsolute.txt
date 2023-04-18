@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\bin\Debug\net7.0\entrada-de-dados-c#-2.exe
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\bin\Debug\net7.0\entrada-de-dados-c#-2.deps.json
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\bin\Debug\net7.0\entrada-de-dados-c#-2.runtimeconfig.json
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\bin\Debug\net7.0\entrada-de-dados-c#-2.dll
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\bin\Debug\net7.0\entrada-de-dados-c#-2.pdb
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.dll
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\refint\entrada-de-dados-c#-2.dll
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.pdb
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\entrada-de-dados-c#-2.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\entrada-de-dados-c#-2\obj\Debug\net7.0\ref\entrada-de-dados-c#-2.dll
