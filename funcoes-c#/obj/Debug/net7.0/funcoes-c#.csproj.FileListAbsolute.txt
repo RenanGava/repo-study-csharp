@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\funcoes-c#\bin\Debug\net7.0\funcoes-c#.exe
+C:\Users\renan\Desktop\C#\funcoes-c#\bin\Debug\net7.0\funcoes-c#.deps.json
+C:\Users\renan\Desktop\C#\funcoes-c#\bin\Debug\net7.0\funcoes-c#.runtimeconfig.json
+C:\Users\renan\Desktop\C#\funcoes-c#\bin\Debug\net7.0\funcoes-c#.dll
+C:\Users\renan\Desktop\C#\funcoes-c#\bin\Debug\net7.0\funcoes-c#.pdb
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.dll
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\refint\funcoes-c#.dll
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.pdb
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\funcoes-c#.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\funcoes-c#\obj\Debug\net7.0\ref\funcoes-c#.dll

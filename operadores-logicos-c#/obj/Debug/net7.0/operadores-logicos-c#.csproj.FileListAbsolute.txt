@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\bin\Debug\net7.0\operadores-logicos-c#.exe
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\bin\Debug\net7.0\operadores-logicos-c#.deps.json
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\bin\Debug\net7.0\operadores-logicos-c#.runtimeconfig.json
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\bin\Debug\net7.0\operadores-logicos-c#.dll
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\bin\Debug\net7.0\operadores-logicos-c#.pdb
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.dll
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\refint\operadores-logicos-c#.dll
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.pdb
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\operadores-logicos-c#.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\operadores-logicos-c#\obj\Debug\net7.0\ref\operadores-logicos-c#.dll

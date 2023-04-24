@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\bin\Debug\net7.0\exercicio-for.exe
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\bin\Debug\net7.0\exercicio-for.deps.json
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\bin\Debug\net7.0\exercicio-for.runtimeconfig.json
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\bin\Debug\net7.0\exercicio-for.dll
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\bin\Debug\net7.0\exercicio-for.pdb
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.dll
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\refint\exercicio-for.dll
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.pdb
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\exercicio-for.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\exercicios-c#\exercicio-for\obj\Debug\net7.0\ref\exercicio-for.dll
