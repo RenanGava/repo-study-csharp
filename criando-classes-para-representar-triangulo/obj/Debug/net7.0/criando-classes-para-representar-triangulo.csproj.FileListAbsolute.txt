@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\bin\Debug\net7.0\criando-classes-para-representar-triangulo.exe
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\bin\Debug\net7.0\criando-classes-para-representar-triangulo.deps.json
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\bin\Debug\net7.0\criando-classes-para-representar-triangulo.runtimeconfig.json
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\bin\Debug\net7.0\criando-classes-para-representar-triangulo.dll
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\bin\Debug\net7.0\criando-classes-para-representar-triangulo.pdb
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.dll
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\refint\criando-classes-para-representar-triangulo.dll
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.pdb
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\criando-classes-para-representar-triangulo.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\criando-classes-para-representar-triangulo\obj\Debug\net7.0\ref\criando-classes-para-representar-triangulo.dll

@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\bin\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.exe
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\bin\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.deps.json
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\bin\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.runtimeconfig.json
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\bin\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.dll
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\bin\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.pdb
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.dll
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\refint\resolvendo-problema-sem-orientacao-a-objetos.dll
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.pdb
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\resolvendo-problema-sem-orientacao-a-objetos.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\resolvendo-problema-sem-orientacao-a-objetos\obj\Debug\net7.0\ref\resolvendo-problema-sem-orientacao-a-objetos.dll

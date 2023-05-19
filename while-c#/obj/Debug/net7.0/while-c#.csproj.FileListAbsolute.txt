@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\while-c#\bin\Debug\net7.0\while-c#.exe
+C:\Users\renan\Desktop\C#\while-c#\bin\Debug\net7.0\while-c#.deps.json
+C:\Users\renan\Desktop\C#\while-c#\bin\Debug\net7.0\while-c#.runtimeconfig.json
+C:\Users\renan\Desktop\C#\while-c#\bin\Debug\net7.0\while-c#.dll
+C:\Users\renan\Desktop\C#\while-c#\bin\Debug\net7.0\while-c#.pdb
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.dll
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\refint\while-c#.dll
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.pdb
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\while-c#.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\while-c#\obj\Debug\net7.0\ref\while-c#.dll
