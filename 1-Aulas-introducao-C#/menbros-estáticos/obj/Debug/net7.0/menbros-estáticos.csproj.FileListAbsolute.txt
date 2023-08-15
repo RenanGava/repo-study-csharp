@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\menbros-estáticos\bin\Debug\net7.0\menbros-estáticos.exe
+C:\Users\renan\Desktop\C#\menbros-estáticos\bin\Debug\net7.0\menbros-estáticos.deps.json
+C:\Users\renan\Desktop\C#\menbros-estáticos\bin\Debug\net7.0\menbros-estáticos.runtimeconfig.json
+C:\Users\renan\Desktop\C#\menbros-estáticos\bin\Debug\net7.0\menbros-estáticos.dll
+C:\Users\renan\Desktop\C#\menbros-estáticos\bin\Debug\net7.0\menbros-estáticos.pdb
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.dll
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\refint\menbros-estáticos.dll
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.pdb
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\menbros-estáticos.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\menbros-estáticos\obj\Debug\net7.0\ref\menbros-estáticos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "criando-classes-para-representar-triangulo/1.0.0": {
+        "runtime": {
+          "criando-classes-para-representar-triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "criando-classes-para-representar-triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

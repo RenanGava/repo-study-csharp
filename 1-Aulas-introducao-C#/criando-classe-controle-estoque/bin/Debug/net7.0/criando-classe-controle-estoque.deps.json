@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "criando-classe-controle-estoque/1.0.0": {
+        "runtime": {
+          "criando-classe-controle-estoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "criando-classe-controle-estoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
