@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\bin\Debug\net7.0\05-Encapsulamento.exe
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\bin\Debug\net7.0\05-Encapsulamento.deps.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\bin\Debug\net7.0\05-Encapsulamento.runtimeconfig.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\bin\Debug\net7.0\05-Encapsulamento.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\bin\Debug\net7.0\05-Encapsulamento.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\refint\05-Encapsulamento.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\05-Encapsulamento.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\05-Encapsulamento\obj\Debug\net7.0\ref\05-Encapsulamento.dll
