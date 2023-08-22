@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\bin\Debug\net7.0\02-Vetores.exe
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\bin\Debug\net7.0\02-Vetores.deps.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\bin\Debug\net7.0\02-Vetores.runtimeconfig.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\bin\Debug\net7.0\02-Vetores.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\bin\Debug\net7.0\02-Vetores.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\refint\02-Vetores.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\02-Vetores.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\02-Vetores\obj\Debug\net7.0\ref\02-Vetores.dll
