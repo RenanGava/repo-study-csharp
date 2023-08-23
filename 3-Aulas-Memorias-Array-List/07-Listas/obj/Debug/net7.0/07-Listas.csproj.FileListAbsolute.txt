@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\bin\Debug\net7.0\07-Listas.exe
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\bin\Debug\net7.0\07-Listas.deps.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\bin\Debug\net7.0\07-Listas.runtimeconfig.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\bin\Debug\net7.0\07-Listas.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\bin\Debug\net7.0\07-Listas.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\refint\07-Listas.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\07-Listas.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\07-Listas\obj\Debug\net7.0\ref\07-Listas.dll

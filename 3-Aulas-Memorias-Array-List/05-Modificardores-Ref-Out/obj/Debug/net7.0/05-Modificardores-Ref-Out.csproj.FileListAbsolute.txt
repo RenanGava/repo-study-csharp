@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\bin\Debug\net7.0\05-Modificardores-Ref-Out.exe
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\bin\Debug\net7.0\05-Modificardores-Ref-Out.deps.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\bin\Debug\net7.0\05-Modificardores-Ref-Out.runtimeconfig.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\bin\Debug\net7.0\05-Modificardores-Ref-Out.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\bin\Debug\net7.0\05-Modificardores-Ref-Out.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\refint\05-Modificardores-Ref-Out.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\05-Modificardores-Ref-Out.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\05-Modificardores-Ref-Out\obj\Debug\net7.0\ref\05-Modificardores-Ref-Out.dll

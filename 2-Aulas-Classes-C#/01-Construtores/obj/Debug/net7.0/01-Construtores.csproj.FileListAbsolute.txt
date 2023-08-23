@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\bin\Debug\net7.0\01-Construtores.exe
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\bin\Debug\net7.0\01-Construtores.deps.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\bin\Debug\net7.0\01-Construtores.runtimeconfig.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\bin\Debug\net7.0\01-Construtores.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\bin\Debug\net7.0\01-Construtores.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\refint\01-Construtores.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\01-Construtores.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\01-Construtores\obj\Debug\net7.0\ref\01-Construtores.dll

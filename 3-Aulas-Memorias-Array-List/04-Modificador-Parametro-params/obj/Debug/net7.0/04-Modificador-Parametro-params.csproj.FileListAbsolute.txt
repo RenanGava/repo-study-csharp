@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\bin\Debug\net7.0\04-Modificador-Parametro-params.exe
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\bin\Debug\net7.0\04-Modificador-Parametro-params.deps.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\bin\Debug\net7.0\04-Modificador-Parametro-params.runtimeconfig.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\bin\Debug\net7.0\04-Modificador-Parametro-params.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\bin\Debug\net7.0\04-Modificador-Parametro-params.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\refint\04-Modificador-Parametro-params.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\04-Modificador-Parametro-params.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\04-Modificador-Parametro-params\obj\Debug\net7.0\ref\04-Modificador-Parametro-params.dll

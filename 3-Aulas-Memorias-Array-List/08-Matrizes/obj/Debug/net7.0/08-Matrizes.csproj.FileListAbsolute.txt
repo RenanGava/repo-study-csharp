@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\bin\Debug\net7.0\08-Matrizes.exe
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\bin\Debug\net7.0\08-Matrizes.deps.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\bin\Debug\net7.0\08-Matrizes.runtimeconfig.json
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\bin\Debug\net7.0\08-Matrizes.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\bin\Debug\net7.0\08-Matrizes.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\refint\08-Matrizes.dll
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.pdb
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\08-Matrizes.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\3-Aulas-Memorias-Array-List\08-Matrizes\obj\Debug\net7.0\ref\08-Matrizes.dll

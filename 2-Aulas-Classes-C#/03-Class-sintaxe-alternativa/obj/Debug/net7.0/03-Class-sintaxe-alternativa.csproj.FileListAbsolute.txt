@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\bin\Debug\net7.0\03-Class-sintaxe-alternativa.exe
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\bin\Debug\net7.0\03-Class-sintaxe-alternativa.deps.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\bin\Debug\net7.0\03-Class-sintaxe-alternativa.runtimeconfig.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\bin\Debug\net7.0\03-Class-sintaxe-alternativa.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\bin\Debug\net7.0\03-Class-sintaxe-alternativa.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\refint\03-Class-sintaxe-alternativa.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\03-Class-sintaxe-alternativa.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\03-Class-sintaxe-alternativa\obj\Debug\net7.0\ref\03-Class-sintaxe-alternativa.dll

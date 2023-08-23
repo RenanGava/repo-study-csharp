@@ -8,6 +8,15 @@ namespace Course{
         public double Preco;
         public int Quantidade;
 
+
+        // isso é um construtor em C#
+        public Produto(string nome, double preco, int quantidade){
+            this.Nome = nome;
+            this.Preco = preco;
+            this.Quantidade = quantidade;
+
+        }
+
         public double ValorTotalEmEstoque(){
             return Preco * Quantidade;
         }

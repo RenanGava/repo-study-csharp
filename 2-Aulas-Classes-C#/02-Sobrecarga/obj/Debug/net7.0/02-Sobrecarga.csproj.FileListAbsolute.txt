@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\bin\Debug\net7.0\02-Sobrecarga.exe
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\bin\Debug\net7.0\02-Sobrecarga.deps.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\bin\Debug\net7.0\02-Sobrecarga.runtimeconfig.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\bin\Debug\net7.0\02-Sobrecarga.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\bin\Debug\net7.0\02-Sobrecarga.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\refint\02-Sobrecarga.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\02-Sobrecarga.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\02-Sobrecarga\obj\Debug\net7.0\ref\02-Sobrecarga.dll

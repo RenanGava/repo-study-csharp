@@ -16,10 +16,7 @@ namespace Course
         private int _quantidade;
 
 
-        public Produto()
-        {
-
-        }
+        public Produto(){}
 
 
         public Produto(string nome, double preco) : this()

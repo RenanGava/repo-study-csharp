@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renan\\Desktop\\C#\\Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj": {}
+    "C:\\Users\\renan\\Desktop\\C#\\2-Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renan\\Desktop\\C#\\Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj": {
+    "C:\\Users\\renan\\Desktop\\C#\\2-Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renan\\Desktop\\C#\\Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj",
+        "projectUniqueName": "C:\\Users\\renan\\Desktop\\C#\\2-Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj",
         "projectName": "01-Construtores",
-        "projectPath": "C:\\Users\\renan\\Desktop\\C#\\Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj",
+        "projectPath": "C:\\Users\\renan\\Desktop\\C#\\2-Aulas-Classes-C#\\01-Construtores\\01-Construtores.csproj",
         "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renan\\Desktop\\C#\\Aulas-Classes-C#\\01-Construtores\\obj\\",
+        "outputPath": "C:\\Users\\renan\\Desktop\\C#\\2-Aulas-Classes-C#\\01-Construtores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\bin\Debug\net7.0\06-Properties.exe
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\bin\Debug\net7.0\06-Properties.deps.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\bin\Debug\net7.0\06-Properties.runtimeconfig.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\bin\Debug\net7.0\06-Properties.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\bin\Debug\net7.0\06-Properties.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\refint\06-Properties.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\06-Properties.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\06-Properties\obj\Debug\net7.0\ref\06-Properties.dll

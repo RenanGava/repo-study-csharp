@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\bin\Debug\net7.0\07-Auto-Properties.exe
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\bin\Debug\net7.0\07-Auto-Properties.deps.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\bin\Debug\net7.0\07-Auto-Properties.runtimeconfig.json
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\bin\Debug\net7.0\07-Auto-Properties.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\bin\Debug\net7.0\07-Auto-Properties.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\refint\07-Auto-Properties.dll
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.pdb
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\07-Auto-Properties.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\2-Aulas-Classes-C#\07-Auto-Properties\obj\Debug\net7.0\ref\07-Auto-Properties.dll
