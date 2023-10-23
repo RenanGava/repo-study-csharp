@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\bin\Debug\net7.0\01-Heranca.exe
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\bin\Debug\net7.0\01-Heranca.deps.json
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\bin\Debug\net7.0\01-Heranca.runtimeconfig.json
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\bin\Debug\net7.0\01-Heranca.dll
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\bin\Debug\net7.0\01-Heranca.pdb
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.dll
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\refint\01-Heranca.dll
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.pdb
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\01-Heranca.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\4-Topicos-Avancados\01-Heranca\obj\Debug\net7.0\ref\01-Heranca.dll
