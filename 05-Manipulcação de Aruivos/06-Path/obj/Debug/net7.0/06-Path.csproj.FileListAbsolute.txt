@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\bin\Debug\net7.0\06-Path.exe
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\bin\Debug\net7.0\06-Path.deps.json
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\bin\Debug\net7.0\06-Path.runtimeconfig.json
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\bin\Debug\net7.0\06-Path.dll
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\bin\Debug\net7.0\06-Path.pdb
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.AssemblyInfo.cs
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.dll
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\refint\06-Path.dll
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.pdb
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\06-Path.genruntimeconfig.cache
+C:\Users\renan\Desktop\C#\05-Manipulcação de Aruivos\06-Path\obj\Debug\net7.0\ref\06-Path.dll
